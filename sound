@@ -1,0 +1,7 @@
+1. caputre audio from sound card: https://jordilin.wordpress.com/2006/07/28/howto-recording-audio-from-the-command-line/\
+http://quicktoots.linux-audio.com/toots/quick-toot-arecord_and_rtmix-1.html
+
+2. broadcast audio : https://pymotw.com/2/socket/multicast.html  multiple rcv and 1 sender
+
+
+
